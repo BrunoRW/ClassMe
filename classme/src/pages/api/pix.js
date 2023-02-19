@@ -5,6 +5,8 @@ mercadopago.configure({
   access_token: "TEST-8394005483637494-021309-19a106f36709c3d46d30ff18e522135a-1211637835"
 });
 
+// pix mercado pago 
+
 
 export default async function handler(req, res) {
 
