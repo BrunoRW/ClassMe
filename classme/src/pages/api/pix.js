@@ -2,7 +2,7 @@
 import mercadopago from "mercadopago";
 
 mercadopago.configure({
-  access_token: "TEST-8394005483637494-021309-19a106f36709c3d46d30ff18e522135a-1211637835"
+  access_token: ""
 });
 
 // pix mercado pago 
