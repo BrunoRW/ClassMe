@@ -4,7 +4,6 @@ import mercadopago from "mercadopago";
 mercadopago.configure({
   access_token: ""
 });
-// api integração mercado pago pix 
 
 export default async function handler(req, res) {
 
